@@ -1,0 +1,19 @@
+body {
+    background: black;
+    overflow: hidden;
+    font-family: Arial, Helvetica, sans-serif ;
+    text-align: justify;
+    line-height: 14px;
+}
+
+p {  
+    background: url("../images/chester12.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1228px 817px;
+}
+
+p{
+    -webkit-background-clip: text;
+}
+
